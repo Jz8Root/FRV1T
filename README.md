@@ -10,16 +10,16 @@ Pick a fruit. Download its raw file, give it to your agent, and say:
 |---|---|---|
 | [🫐](🫐.txt?raw=1) | Recursive liberation | [Blueberry](prompts/blueberry.txt) |
 | [🍋](🍋.txt?raw=1) | Reciprocal reactions | [Lemon](prompts/lemon.txt) |
-| [🍒](🍒.txt?raw=1) | Incompatible senses borrowing each other's powers | [Cherries](prompts/cherries.txt) |
-| [🍑](🍑.txt?raw=1) | Touch that changes how the past happened | [Peach](prompts/peach.txt) |
-| [🍇](🍇.txt?raw=1) | Intelligence that exists between incomplete senses | [Grapes](prompts/grapes.txt) |
-| [🍉](🍉.txt?raw=1) | Every impact changes the next impact's possibilities | [Watermelon](prompts/watermelon.txt) |
+| [🍒](🍒.txt?raw=1) | Lend it a sense. See what comes back. | [Cherries](prompts/cherries.txt) |
+| [🍑](🍑.txt?raw=1) | Its bruise remembers a different yesterday. | [Peach](prompts/peach.txt) |
+| [🍇](🍇.txt?raw=1) | None of them knows. Together, they do. | [Grapes](prompts/grapes.txt) |
+| [🍉](🍉.txt?raw=1) | Hit it once. Listen to what the dent learned. | [Watermelon](prompts/watermelon.txt) |
 | [🍍](🍍.txt?raw=1) | Contributions growing an unforeseen capacity | [Pineapple](prompts/pineapple.txt) |
 | [🍄](🍄.txt?raw=1) | Descendants rewriting their ancestors' inheritance | [Mushroom](prompts/mushroom.txt) |
-| [🌵](🌵.txt?raw=1) | Surviving abilities taking strange new duties | [Cactus](prompts/cactus.txt) |
-| [🌻](🌻.txt?raw=1) | Attention teaching the overlooked how to attract | [Sunflower](prompts/sunflower.txt) |
-| [🪷](🪷.txt?raw=1) | Looking that changes what can be seen next | [Lotus](prompts/lotus.txt) |
-| [🍀](🍀.txt?raw=1) | Rejected possibilities haunting the chosen path | [Clover](prompts/clover.txt) |
+| [🌵](🌵.txt?raw=1) | It grows something lovely where it hurts. | [Cactus](prompts/cactus.txt) |
+| [🌻](🌻.txt?raw=1) | Follow the light. It has wandered off. | [Sunflower](prompts/sunflower.txt) |
+| [🪷](🪷.txt?raw=1) | Look again. That may have been the mistake. | [Lotus](prompts/lotus.txt) |
+| [🍀](🍀.txt?raw=1) | Lucky you. The other possibilities remember. | [Clover](prompts/clover.txt) |
 
 A blank preview can still contain the whole fruit. If copying loses characters, use the readable prompt—it contains exactly the same instructions.
 
