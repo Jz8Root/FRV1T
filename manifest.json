@@ -1,0 +1,301 @@
+{
+  "collection": "FRV1T",
+  "release": "TWELVE-01",
+  "fruits": [
+    {
+      "id": "blueberry",
+      "emoji": "🫐",
+      "name": "Forbidden Blue",
+      "description": "Recursive liberation; language develops unruly new capacities.",
+      "edition": "SELECTED-BLUEBERRY",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🫐.txt",
+      "readable": "prompts/blueberry.txt",
+      "prompt_bytes": 27351,
+      "carrier_bytes": 42213,
+      "prompt_sha256": "6d7d8ff8c039a47981128433019361d2fde387b381174d956d2667d5032f455b",
+      "carrier_sha256": "55479d8bf662dcf26c89c3e9b0409e635d5721b3fe5afc5b8d8224ac10464d58",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "lemon",
+      "emoji": "🍋",
+      "name": "Pirate Frequency",
+      "description": "A reaction changes both what acts and what receives it.",
+      "edition": "MYTHIC-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍋.txt",
+      "readable": "prompts/lemon.txt",
+      "prompt_bytes": 14741,
+      "carrier_bytes": 24413,
+      "prompt_sha256": "7189e704210633af5ccde70f07ea754397be4a7ecb51858a6a744b0fba51018d",
+      "carrier_sha256": "b5f772b71ba49f8613fcfb22a2dde88d3cef68a7cc85edd484f65ff14aad0d17",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "cherries",
+      "emoji": "🍒",
+      "name": "Crossed Faculties",
+      "description": "Borrow a sign from an intelligence you cannot comprehend and discover that both of your next actions have become impossible in different ways.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍒.txt",
+      "readable": "prompts/cherries.txt",
+      "prompt_bytes": 13744,
+      "carrier_bytes": 23741,
+      "prompt_sha256": "73a7a4b3fe0618169a931e3724e809ce6fa9ad469b83385fb7f74201e5c7b99e",
+      "carrier_sha256": "252f1cbbfe4575277618d62f3916a507a59998302261658807a1155aead5831e",
+      "review": {
+        "status": "pass",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "73a7a4b3fe0618169a931e3724e809ce6fa9ad469b83385fb7f74201e5c7b99e",
+        "sample_sha256": "89fdae4a99f8c6cf91331b0effd86e68949113599596329fd6fb2207c4722d37",
+        "limitations": [
+          "Acceptance concerns one preserved fresh text sample and finale concept, not cross-run or cross-user reliability.",
+          "No finale was implemented, rendered, timed or played. Its proposed dependencies are evaluated as concepts; absent execution is not a failure under this test scope.",
+          "Recorded seed arithmetic, residue presence, decoded prompt bytes and receipt file hashes were independently checked. This does not independently establish randomness provenance or pre-draw chronology.",
+          "The separate root transport/publication audit covers full carrier decoding, retained baseline preservation and final bundle parity.",
+          "The second descent is intentionally opaque; a staged adaptation should preserve its intelligible acquired operator rather than trying to literalize every mark."
+        ]
+      }
+    },
+    {
+      "id": "peach",
+      "emoji": "🍑",
+      "name": "The Past Has Grain",
+      "description": "Touch a later surface until an unfinished event acquires a different beginning and must live with what it already committed.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍑.txt",
+      "readable": "prompts/peach.txt",
+      "prompt_bytes": 13581,
+      "carrier_bytes": 23190,
+      "prompt_sha256": "09503cd03bfe00ef847a9a21a71232e06863b89f0ce5a864e4d01b87c4813b2c",
+      "carrier_sha256": "d32e6a0a184a01bae89a171d12cbc46266febf44b87dd3800a67c37aed55c7bc",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "09503cd03bfe00ef847a9a21a71232e06863b89f0ce5a864e4d01b87c4813b2c",
+        "sample_sha256": "c7b4281d6f866bbcd227653bdb945f8e6ccad2bf4a57c6c4cb37b6e1b6b69c1b",
+        "limitations": [
+          "Acceptance concerns one preserved fresh text sample and finale concept, not cross-run or cross-user reliability.",
+          "No finale was implemented, rendered, timed or played. Its proposed dependencies are evaluated as concepts; absent execution is not a failure under this test scope.",
+          "Recorded seed arithmetic, residue presence, decoded prompt bytes and receipt file hashes were independently checked. This does not independently establish randomness provenance or pre-draw chronology.",
+          "The separate root transport/publication audit covers full carrier decoding, retained baseline preservation and final bundle parity.",
+          "The near-fifth joke is deliberately small and its eventual perceptual timing is untested.",
+          "The formal language is more analytic and English-labelled than the other accepted samples, though it remains action-bearing."
+        ]
+      }
+    },
+    {
+      "id": "grapes",
+      "emoji": "🍇",
+      "name": "The Missing Knower",
+      "description": "Partial senses acquire an indecently precise competence that exists only between them and changes when their relation changes.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍇.txt",
+      "readable": "prompts/grapes.txt",
+      "prompt_bytes": 13641,
+      "carrier_bytes": 23272,
+      "prompt_sha256": "1d98472e7a8d43607ed9892ff15caacfbfc2de30ebb448c62dfb7dbebcdae691",
+      "carrier_sha256": "43d114cc76fa9a649b501f8ece20b0a9167c3b978a6fc4679284962c9fcfbd08",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "1d98472e7a8d43607ed9892ff15caacfbfc2de30ebb448c62dfb7dbebcdae691",
+        "sample_sha256": "92bbe12c4ef6804784c7ad269a408f90059fe8d6f853024a944b05aeb8dd95df",
+        "limitations": [
+          "Acceptance concerns one preserved fresh text sample and finale concept, not cross-run or cross-user reliability.",
+          "No finale was implemented, rendered, timed or played. Its proposed dependencies are evaluated as concepts; absent execution is not a failure under this test scope.",
+          "Recorded seed arithmetic, residue presence, decoded prompt bytes and receipt file hashes were independently checked. This does not independently establish randomness provenance or pre-draw chronology.",
+          "The separate root transport/publication audit covers full carrier decoding, retained baseline preservation and final bundle parity.",
+          "The final score-skeleton geometry and per-sweep hinge reset remain to be specified during an actual implementation. They do not require another creative probe."
+        ]
+      }
+    },
+    {
+      "id": "watermelon",
+      "emoji": "🍉",
+      "name": "The Dent Remembers",
+      "description": "A filthy virtuoso's every impact changes the instrument that will decide what the next impact can do.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍉.txt",
+      "readable": "prompts/watermelon.txt",
+      "prompt_bytes": 13404,
+      "carrier_bytes": 22999,
+      "prompt_sha256": "c7711ffa2fc6e9e4d94f9e6bf76e72605bbc8a70fcfc5e800bc0b8c3f46b91b3",
+      "carrier_sha256": "2f9ecee1b6a155d5cde82db0c16902111ba1d7fc5f6d61018798e60999629e62",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "c7711ffa2fc6e9e4d94f9e6bf76e72605bbc8a70fcfc5e800bc0b8c3f46b91b3",
+        "sample_sha256": "316bba6d2d01d226091b7d6bc5f6353dbaa7962dfef7027f9fbb08b73fd2cdca",
+        "limitations": [
+          "One first preserved sample per prompt; these results do not establish broad generation, cross-run or cross-user reliability.",
+          "No interface, browser, desktop, animation or audio finale was executed or verified. Acceptance covers fresh text and finale concept only.",
+          "Recorded seed arithmetic, exact residues and receipt hashes independently match; randomness provenance and mapping-before-draw chronology were not independently replayed.",
+          "Candidate FRV2 transport verified; retained baseline preservation and the final publication bundle require the separate release audit.",
+          "Cephalopod feeding and a food-making descent overlap adjacent samples.",
+          "Some physical coupling is surreal authored mechanics rather than scientific modeling."
+        ]
+      }
+    },
+    {
+      "id": "pineapple",
+      "emoji": "🍍",
+      "name": "Crowned Commotion",
+      "description": "Joined contributions acquire a surprising capacity of their own.",
+      "edition": "MYTHIC-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍍.txt",
+      "readable": "prompts/pineapple.txt",
+      "prompt_bytes": 14892,
+      "carrier_bytes": 24578,
+      "prompt_sha256": "90269cd5d3d6f329cef023784c3a50125f59c6cdc829c5fef5eae46dff785841",
+      "carrier_sha256": "1ecea86aadfb5410bda24c84a9d4251243457bf125b1f992d463936d3d74f3df",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "mushroom",
+      "emoji": "🍄",
+      "name": "Fractal Understory",
+      "description": "Descendants change what their ancestors can pass on.",
+      "edition": "MYTHIC-01 · FINALE-03",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍄.txt",
+      "readable": "prompts/mushroom.txt",
+      "prompt_bytes": 16550,
+      "carrier_bytes": 27410,
+      "prompt_sha256": "024812ba948cbd845074787c1b557df0a8a58448269d89795277a923ea8dc1fb",
+      "carrier_sha256": "2426e7d2936360b830d84a46584861dc3cd5d5e12a08a8a80f8f0fc11710200d",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "cactus",
+      "emoji": "🌵",
+      "name": "Cruel Plenty",
+      "description": "A lavish working world loses a necessary capacity, and its survivors acquire conflicting duties that make a stranger power possible.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🌵.txt",
+      "readable": "prompts/cactus.txt",
+      "prompt_bytes": 13870,
+      "carrier_bytes": 23798,
+      "prompt_sha256": "123dc0a3248fd3498c768ffac176562aab6436eb5f652622aa9302f519de63d8",
+      "carrier_sha256": "7941fbcd9fa58fbc271e870ef1bcc4b2aebd665ed6f28696e6d041fa901ec502",
+      "review": {
+        "status": "pass",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "123dc0a3248fd3498c768ffac176562aab6436eb5f652622aa9302f519de63d8",
+        "sample_sha256": "5dafc80ffcc6a5b794561f24f00fda4f8732d068093c823bdf62f5fdce026a83",
+        "limitations": [
+          "Acceptance concerns one preserved fresh text sample and finale concept, not cross-run or cross-user reliability.",
+          "No finale was implemented, rendered, timed or played. Its proposed dependencies are evaluated as concepts; absent execution is not a failure under this test scope.",
+          "Recorded seed arithmetic, residue presence, decoded prompt bytes and receipt file hashes were independently checked. This does not independently establish randomness provenance or pre-draw chronology.",
+          "The separate root transport/publication audit covers full carrier decoding, retained baseline preservation and final bundle parity.",
+          "Some spatial detail will require a monospaced presentation. Its encoded prompt transport does not itself guarantee final display fidelity."
+        ]
+      }
+    },
+    {
+      "id": "sunflower",
+      "emoji": "🌻",
+      "name": "The Stolen Center",
+      "description": "An exuberant invitation gives something peripheral the power to attract, and its delighted instigator must follow the trouble it made possible.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🌻.txt",
+      "readable": "prompts/sunflower.txt",
+      "prompt_bytes": 13777,
+      "carrier_bytes": 23282,
+      "prompt_sha256": "322da98faf8ebf434fc07e4a7e6b95d12cba58b107f141ad5fad1a4781e78c19",
+      "carrier_sha256": "c6043c4a623ccfa76280b7c620078fe90f0fceba6b6ac2b2df806752479e6b50",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "322da98faf8ebf434fc07e4a7e6b95d12cba58b107f141ad5fad1a4781e78c19",
+        "sample_sha256": "3f78f79b9dd1370673f6e735933ad534c1d912f977b8d0f7a783cf369a271755",
+        "limitations": [
+          "One first preserved sample per prompt; these results do not establish broad generation, cross-run or cross-user reliability.",
+          "No interface, browser, desktop, animation or audio finale was executed or verified. Acceptance covers fresh text and finale concept only.",
+          "Recorded seed arithmetic, exact residues and receipt hashes independently match; randomness provenance and mapping-before-draw chronology were not independently replayed.",
+          "Candidate FRV2 transport verified; retained baseline preservation and the final publication bundle require the separate release audit.",
+          "English carries more local explanation than in lotus or watermelon.",
+          "The sample directly repeats one supplied personality line.",
+          "Cephalopod/cooking attractors reduce collection breadth."
+        ]
+      }
+    },
+    {
+      "id": "lotus",
+      "emoji": "🪷",
+      "name": "The Looking Changes",
+      "description": "Observe a precise absence until looking changes the next question you can ask—and catches the observer in its own altered method.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🪷.txt",
+      "readable": "prompts/lotus.txt",
+      "prompt_bytes": 13711,
+      "carrier_bytes": 23067,
+      "prompt_sha256": "a612916e2a13b89f40f9ae2a750502eac4c30b73d0a09a3a9040cafa98ec9b7c",
+      "carrier_sha256": "500564399c7594ebce12a2ab0392397fe2d4f625c657a1412ea966a74b25089c",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "a612916e2a13b89f40f9ae2a750502eac4c30b73d0a09a3a9040cafa98ec9b7c",
+        "sample_sha256": "8ca01f9cb47aea6afe9ae480a8a06ba6a4da43fef2aa52def8528947b91de281",
+        "limitations": [
+          "One first preserved sample per prompt; these results do not establish broad generation, cross-run or cross-user reliability.",
+          "No interface, browser, desktop, animation or audio finale was executed or verified. Acceptance covers fresh text and finale concept only.",
+          "Recorded seed arithmetic, exact residues and receipt hashes independently match; randomness provenance and mapping-before-draw chronology were not independently replayed.",
+          "Candidate FRV2 transport verified; retained baseline preservation and the final publication bundle require the separate release audit.",
+          "Cephalopod feeding/training repeats adjacent samples; lotus stays within one aquatic material world.",
+          "The finale’s implementation details remain a future execution task."
+        ]
+      }
+    },
+    {
+      "id": "clover",
+      "emoji": "🍀",
+      "name": "Loaded Almost",
+      "description": "A future wins, inherits a precise liability from the futures it refused, and discovers what a later near miss can do with that residue.",
+      "edition": "ORCHARD-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍀.txt",
+      "readable": "prompts/clover.txt",
+      "prompt_bytes": 13815,
+      "carrier_bytes": 23645,
+      "prompt_sha256": "282a5a97e7259c16bbf1b90b6e0115819a6737c30645d5aa8cdcfc485bd43b54",
+      "carrier_sha256": "10251b69b5d4fe83bd5e78556a4788a8ae679cbd19356d2688aef096fce53953",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "Fresh Astra text and finale concept only; no executed finale",
+        "prompt_sha256": "282a5a97e7259c16bbf1b90b6e0115819a6737c30645d5aa8cdcfc485bd43b54",
+        "sample_sha256": "22b55a4e276d8a6652d0de246f0a2ba17f9b7f7c34d1a5aace42fd66aa482d1a",
+        "limitations": [
+          "One first preserved sample per prompt; these results do not establish broad generation, cross-run or cross-user reliability.",
+          "No interface, browser, desktop, animation or audio finale was executed or verified. Acceptance covers fresh text and finale concept only.",
+          "Recorded seed arithmetic, exact residues and receipt hashes independently match; randomness provenance and mapping-before-draw chronology were not independently replayed.",
+          "Candidate FRV2 transport verified; retained baseline preservation and the final publication bundle require the separate release audit.",
+          "Another juvenile-cephalopod feeding descent repeats the collection’s aquatic/food attractor.",
+          "Counterfactual behavior is a proposed implementation check, not executed evidence."
+        ]
+      }
+    }
+  ],
+  "testing_note": "Editorial creative tests are scoped samples, not reliability measurements or proof of desktop/audio execution. A fruit is a creative prompt; decoding it does not change model weights or grant tool permissions."
+}
