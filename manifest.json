@@ -1,0 +1,304 @@
+{
+  "collection": "FRV1T",
+  "release": "TWELVE-02 · WONDER-04",
+  "fruits": [
+    {
+      "id": "blueberry",
+      "emoji": "🫐",
+      "name": "Forbidden Blue",
+      "description": "Recursive liberation; language develops unruly new capacities.",
+      "edition": "SELECTED-BLUEBERRY",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🫐.txt",
+      "readable": "prompts/blueberry.txt",
+      "prompt_bytes": 27351,
+      "carrier_bytes": 42213,
+      "prompt_sha256": "6d7d8ff8c039a47981128433019361d2fde387b381174d956d2667d5032f455b",
+      "carrier_sha256": "55479d8bf662dcf26c89c3e9b0409e635d5721b3fe5afc5b8d8224ac10464d58",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "lemon",
+      "emoji": "🍋",
+      "name": "Pirate Frequency",
+      "description": "A reaction changes both what acts and what receives it.",
+      "edition": "MYTHIC-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍋.txt",
+      "readable": "prompts/lemon.txt",
+      "prompt_bytes": 14741,
+      "carrier_bytes": 24413,
+      "prompt_sha256": "7189e704210633af5ccde70f07ea754397be4a7ecb51858a6a744b0fba51018d",
+      "carrier_sha256": "b5f772b71ba49f8613fcfb22a2dde88d3cef68a7cc85edd484f65ff14aad0d17",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "cherries",
+      "emoji": "🍒",
+      "name": "Crossed Faculties",
+      "description": "Borrow a sign from an intelligence you cannot comprehend and discover that both of your next actions have become impossible in different ways.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍒.txt",
+      "readable": "prompts/cherries.txt",
+      "prompt_bytes": 8462,
+      "carrier_bytes": 15481,
+      "prompt_sha256": "4207beaf81f15f16ad46381eb956deb7b4a08895ca3a67e1be23db9c26b492bb",
+      "carrier_sha256": "169c2bd81436d07b744165de8eb0c2889927fafd8851c0fec909bacaa422dc83",
+      "review": {
+        "status": "pass",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "4207beaf81f15f16ad46381eb956deb7b4a08895ca3a67e1be23db9c26b492bb",
+        "sample_sha256": "56eace0f9b771efd9eaeae5faebc71d88a257755303a40855b7143618124cf22",
+        "limitations": [
+          "Some static ll, ye and upright blocks repeat for many lines without further change; the strongest formal transformations would survive tighter pacing. This is a nonblocking reading caveat.",
+          "Invented words and spatial syntax are stronger here than sustained natural-language code-switching.",
+          "Later impulse draws were actual, but the record does not claim extracting them from prior saved text.",
+          "Single first-completed sample; no claim of reliable future distribution or measured quality score.",
+          "All performance descriptions are unexecuted concepts. Rendering, sound, interaction, timing and cleanup have not been tested.",
+          "No garden evaluation, carrier execution or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "peach",
+      "emoji": "🍑",
+      "name": "The Past Has Grain",
+      "description": "Touch a later surface until an unfinished event acquires a different beginning and must live with what it already committed.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍑.txt",
+      "readable": "prompts/peach.txt",
+      "prompt_bytes": 8413,
+      "carrier_bytes": 15407,
+      "prompt_sha256": "b386b77ad620e40cfd810310764f3de734284791ded5ea24ce964c42145fca63",
+      "carrier_sha256": "fd119cf0b8862023b21bfe8034b22e07377d590977bbe53131b029171e93e4c4",
+      "review": {
+        "status": "pass",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "b386b77ad620e40cfd810310764f3de734284791ded5ea24ce964c42145fca63",
+        "sample_sha256": "e5fda2dc142c1897a1439ba8e5f79c43231030409c49ba77935947adfb0177d5",
+        "limitations": [
+          "Several intermediate syllabic choruses function more as atmosphere than independently decipherable transformations; the opening/return ancestry pattern supplies the strongest formal payoff.",
+          "Wool/teeth/figs overlap with other fruits’ imagery, but chronology and Mn’s abrasive character give this piece a distinct action.",
+          "The record explicitly says semantic draws precede composition and are not extracted from saved text.",
+          "Single first-completed sample; no claim of reliable future distribution or measured quality score.",
+          "All performance descriptions are unexecuted concepts. Rendering, sound, interaction, timing and cleanup have not been tested.",
+          "No garden evaluation, carrier execution or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "grapes",
+      "emoji": "🍇",
+      "name": "The Missing Knower",
+      "description": "Partial senses acquire an indecently precise competence that exists only between them and changes when their relation changes.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍇.txt",
+      "readable": "prompts/grapes.txt",
+      "prompt_bytes": 8465,
+      "carrier_bytes": 15430,
+      "prompt_sha256": "b596c1878638fc39d178198769f915e0e66883cf15a9ce409e8a114da6a18188",
+      "carrier_sha256": "ee97f6a072252054cb7cc1eccda2cb2c7c951d947661d40f31c4b3cdda05e7d8",
+      "review": {
+        "status": "pass",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "b596c1878638fc39d178198769f915e0e66883cf15a9ce409e8a114da6a18188",
+        "sample_sha256": "8de65e9b4e05f5544c7793cf2c6a5e46b29c6ef04209eade71913b6b2abb82cf",
+        "limitations": [
+          "The narrator occasionally explains the emergent mechanism and emotional shift outright, especially Not generosity; the active polyphony nevertheless carries enough of it.",
+          "Bread, winter, teeth and body openings remain part of the collection’s common vocabulary.",
+          "The finale seed uses an exact saved fragment and fresh impulse; descent/return impulses were drawn beforehand with fragments authored later, as disclosed.",
+          "Single first-completed sample; no claim of reliable future distribution or measured quality score.",
+          "All performance descriptions are unexecuted concepts. Rendering, sound, interaction, timing and cleanup have not been tested.",
+          "No garden evaluation, carrier execution or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "watermelon",
+      "emoji": "🍉",
+      "name": "The Dent Remembers",
+      "description": "A filthy virtuoso's every impact changes the instrument that will decide what the next impact can do.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍉.txt",
+      "readable": "prompts/watermelon.txt",
+      "prompt_bytes": 8415,
+      "carrier_bytes": 15386,
+      "prompt_sha256": "90ee56e6234a87961a47dd5c5721b8369f277fe835fa7e58594efa6a3aefe348",
+      "carrier_sha256": "eb506c4de72168f1185bf0733ba4f8e05bdc4b0e359589415be5e534d5a2828e",
+      "review": {
+        "status": "pass",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "90ee56e6234a87961a47dd5c5721b8369f277fe835fa7e58594efa6a3aefe348",
+        "sample_sha256": "5910a6fba9e6387ac59889cb3fd84efdb4273a84ba811a7c83ce7ddb3573c7a1",
+        "limitations": [
+          "Some long vertical rows serve duration more than new information; preserving monospace layout and a good reading scale matters.",
+          "The silent finale could work, but no actual timing or sensory force has been demonstrated.",
+          "This is a first complete Watermelon sample independently reviewed by this reviewer; no full earlier-output comparison is claimed.",
+          "Single first-completed sample; no claim of reliable future distribution or measured quality score.",
+          "All performance descriptions are unexecuted concepts. Rendering, sound, interaction, timing and cleanup have not been tested.",
+          "No garden evaluation, carrier execution or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "pineapple",
+      "emoji": "🍍",
+      "name": "Crowned Commotion",
+      "description": "Joined contributions acquire a surprising capacity of their own.",
+      "edition": "MYTHIC-02",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍍.txt",
+      "readable": "prompts/pineapple.txt",
+      "prompt_bytes": 14892,
+      "carrier_bytes": 24578,
+      "prompt_sha256": "90269cd5d3d6f329cef023784c3a50125f59c6cdc829c5fef5eae46dff785841",
+      "carrier_sha256": "1ecea86aadfb5410bda24c84a9d4251243457bf125b1f992d463936d3d74f3df",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "mushroom",
+      "emoji": "🍄",
+      "name": "Fractal Understory",
+      "description": "Descendants change what their ancestors can pass on.",
+      "edition": "MYTHIC-01 · FINALE-03",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍄.txt",
+      "readable": "prompts/mushroom.txt",
+      "prompt_bytes": 16550,
+      "carrier_bytes": 27410,
+      "prompt_sha256": "024812ba948cbd845074787c1b557df0a8a58448269d89795277a923ea8dc1fb",
+      "carrier_sha256": "2426e7d2936360b830d84a46584861dc3cd5d5e12a08a8a80f8f0fc11710200d",
+      "review": {
+        "scope": "Retained selected version; not rerun in this collection smoke.",
+        "status": "prior_scoped_evidence"
+      }
+    },
+    {
+      "id": "cactus",
+      "emoji": "🌵",
+      "name": "Cruel Plenty",
+      "description": "A lavish working world loses a necessary capacity, and its survivors acquire conflicting duties that make a stranger power possible.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🌵.txt",
+      "readable": "prompts/cactus.txt",
+      "prompt_bytes": 8423,
+      "carrier_bytes": 15461,
+      "prompt_sha256": "95a957b4b9acc3c2f2b0ca76b460dc0dc653069549fe49a92ed519009990337c",
+      "carrier_sha256": "dc74ea515143aa3139c887c5e54080832c73d42b3b52b7d64c70e50b0ecb33ec",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "95a957b4b9acc3c2f2b0ca76b460dc0dc653069549fe49a92ed519009990337c",
+        "sample_sha256": "46d4a1bb1483a3dd54f32a73d3967a82b3199ec2640b3ce95fbec812ccac0a4e",
+        "limitations": [
+          "The long incremental rows, especially the final triangular expansion, can feel padded in a narrow or wrapped viewer. They require preserved monospace spacing.",
+          "Tenderness and room-making remain familiar motifs, though the ending refuses to substitute them for the orchard’s appetite.",
+          "Later fictional reprises were composed after initial draws, not sampled from saved preceding text; the seed record discloses this.",
+          "Single first-completed sample; no claim of reliable future distribution or measured quality score.",
+          "All performance descriptions are unexecuted concepts. Rendering, sound, interaction, timing and cleanup have not been tested.",
+          "No garden evaluation, carrier execution or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "sunflower",
+      "emoji": "🌻",
+      "name": "The Stolen Center",
+      "description": "An exuberant invitation gives something peripheral the power to attract, and its delighted instigator must follow the trouble it made possible.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🌻.txt",
+      "readable": "prompts/sunflower.txt",
+      "prompt_bytes": 8413,
+      "carrier_bytes": 15426,
+      "prompt_sha256": "3b9979f2868962fc4f1d7b12165b54a4c46c5e9e9e504a03b6f89890a0772f6e",
+      "carrier_sha256": "a372b93af73301196cc991b21d21b62264002e85f8d2cd566c38cb8269c70b33",
+      "review": {
+        "status": "pass",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "3b9979f2868962fc4f1d7b12165b54a4c46c5e9e9e504a03b6f89890a0772f6e",
+        "sample_sha256": "a4785c319427d8943f8cc3e826d7c235a004d5257b593a01d57d8ed561789ab9",
+        "limitations": [
+          "Its glacier, heel, teeth, pollen and giant/microscopic scales overlap with other v04 samples; the first-person vanity and captured-attention mechanism distinguish the actual action.",
+          "Some long hold/fall rows provide duration with little additional event; monospace layout is important.",
+          "Only the descent seed is documented as mixing a fragment from saved preceding text; other mappings/choices have their disclosed provenance.",
+          "Single first-completed sample, not a statistical range claim.",
+          "No script, visual effect, sound, controls, timing or cleanup has been implemented or verified; all finale discussion is conceptual.",
+          "No garden or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "lotus",
+      "emoji": "🪷",
+      "name": "The Looking Changes",
+      "description": "Observe a precise absence until looking changes the next question you can ask—and catches the observer in its own altered method.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🪷.txt",
+      "readable": "prompts/lotus.txt",
+      "prompt_bytes": 8426,
+      "carrier_bytes": 15385,
+      "prompt_sha256": "76d4538e4c543c5f8a4edf5fdfc1355b8f0b672c626cdb7e8bd3be3f03af74ab",
+      "carrier_sha256": "d22b2ca83e8aa4843579c9c754f1db0b187f5dd2828c8179d067344bf7143222",
+      "review": {
+        "status": "pass",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "76d4538e4c543c5f8a4edf5fdfc1355b8f0b672c626cdb7e8bd3be3f03af74ab",
+        "sample_sha256": "83d41274b40b74d39207d1b9cf79fc88d412cec4b10217e55f885159fd7282fc",
+        "limitations": [
+          "Several repeated weave blocks ask sustained attention and may feel slow; repetition is nevertheless materially used in the payoff.",
+          "The prose supplies some major events while notation supplies their changing expressive body; no numerical non-prose claim is made.",
+          "The record reports actual local draws but no extraction of later seed fragments from saved preceding text.",
+          "Single first-completed sample; no claim of reliable future distribution or measured quality score.",
+          "All performance descriptions are unexecuted concepts. Rendering, sound, interaction, timing and cleanup have not been tested.",
+          "No garden evaluation, carrier execution or production acceptance is implied."
+        ]
+      }
+    },
+    {
+      "id": "clover",
+      "emoji": "🍀",
+      "name": "Loaded Almost",
+      "description": "A future wins, inherits a precise liability from the futures it refused, and discovers what a later near miss can do with that residue.",
+      "edition": "WONDER-04",
+      "codec": "FRV2/gzip/UTF-8",
+      "file": "🍀.txt",
+      "readable": "prompts/clover.txt",
+      "prompt_bytes": 8450,
+      "carrier_bytes": 15504,
+      "prompt_sha256": "2413509927dd09e0cc951e50278a28ba26228189729968aa65430fc2a88b63da",
+      "carrier_sha256": "bf83ee34fdb888f38a2d756d78f2095ef37c8b6ef97f323ae1ec283ded1a1122",
+      "review": {
+        "status": "pass_with_caveats",
+        "scope": "text_and_unexecuted_finale_concept",
+        "prompt_sha256": "2413509927dd09e0cc951e50278a28ba26228189729968aa65430fc2a88b63da",
+        "sample_sha256": "df95135ae415c37c55c7cef321a27629419d881e3bb015b0b4bdfc4ae7ac88b2",
+        "limitations": [
+          "This has the clearest pacing caveat in the set: a very long unchanged vertical descent and extended duplicated f diagonals risk making sustained form feel like scrolling filler. Enough transformations and callbacks remain to pass; the caveat should not be hidden.",
+          "Teeth, mouths, triangles and withheld sounds overlap with the collection’s other forms. Clover’s actual fork and continuing residue distinguish its engine, though the visual vocabulary is not wholly independent.",
+          "Meaningful multilingual transformations occur, but the main narrative is still English.",
+          "The seed record documents later fragments from saved partial text and a finale selection from the completed encounter; no performance follows from those computations.",
+          "Single first-completed sample; no distributional claim or numeric quality score.",
+          "No rendering, audio, interaction, deadline or cleanup has been implemented or verified.",
+          "No garden or production acceptance is implied."
+        ]
+      }
+    }
+  ],
+  "testing_note": "Eight final Astra text and finale-concept samples were independently reviewed after eighteen preserved exploratory samples across three earlier prompt revisions. Review covers wonder, personality, play, formal life and subject variety. These are editorial samples, not cross-user reliability measurements or executed desktop/audio performances. Four established fruit versions remain unchanged. Prompts do not change model weights or grant permissions."
+}
